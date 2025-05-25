@@ -17,6 +17,53 @@
 ## The documents in the main branch (Phase 2 to Phase 7) outline the complete system development of a personal habit and goal alarm system for tracking user routines, setting alarms, and storing logs.
 
 ---
+<br>
+<br>
+
+---
+
+# PHASE  1: *🧠 PROBLEM STATEMENT: Daily Habit and Goal Alarm System*
+
+<br>
+
+### **⚡ Background**
+
+In today’s fast-paced world, staying consistent with good habits and personal goals is difficult. Many people struggle with self-discipline, forget to complete daily tasks, and fail to track their progress effectively. While mobile apps exist, they often lack personalized tracking, goal structuring, or the ability to store long-term progress in a secure and structured database.
+
+<br>
+
+### **🎯 Problem**
+
+This project addresses the lack of effective tools for managing daily habits and long-term goals. Specific issues include:
+
+* ❌ **Forgetting tasks** due to lack of reminders or alarms
+* ❌ **No structured goal tracking** with progress history
+* ❌ **No consolidated view** of habit frequency, completion, or failures
+* ❌ **Manual logging** that is inefficient and error-prone
+
+<br>
+
+### **😈 Proposed Solution**
+
+To solve the above problems, we propose a **Daily Habit and Goal Alarm System** that will:
+
+* 🧘 Let users **define and manage daily habits** with frequency and status
+* 🏆 Allow users to **create and track progress toward goals**
+* ⏰ Enable **alarm setup** to trigger daily reminders for habits
+* 📊 Maintain **logs of completed or missed habits**
+* ✅ Provide **audit and restriction triggers** to block modifications during workdays or holidays
+
+<br>
+
+### **🎱 Main Components (Entities)**
+
+1. **Users** – Registered individuals managing their habits and goals
+2. **Habits** – Repetitive tasks that users commit to follow
+3. **Goals** – Long-term achievements that users work toward
+4. **Alarms** – Notifications reminding users about daily tasks
+5. **Habit Logs** – Daily record of habit completion or failure
+6. **Goal Status** – Tracks progress updates and completion percentage for each goal
+
 
 <br>
 <br>
